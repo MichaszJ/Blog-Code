@@ -1,2 +1,2 @@
 # Blog-Code
-Source code for my Substack newsletter Space Coffee
+Source code for my Substack newsletter Star Coffee
